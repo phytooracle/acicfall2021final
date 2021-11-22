@@ -1,10 +1,16 @@
 # University of Arizona Applied Cyberinfrastructure Concepts Fall 2021 Final
 
+## Professors: Eric Lyons and Nirav Merchant
+
+## Client(s): Emmanuel Gonzalez and Sebastian Calleja
+
 ## Project Managers: Ryan Papetti and Jocelyn Connors
 
+## Project Purpose(s)
+To create a virtual reality environment where the client can interactively explore different plants and view associated data
 
-## Teams
-- User Experience / Data Visualization
+## Teams and Roles (Team Leads TBD)
+- User Experience / App Development
 - Documentatation
 - Cyberinfrastructure
 - Data
@@ -21,19 +27,13 @@
 - Ask for help as soon as you get stuck
 - Add all large files to gitignore 
 - Try your best!
+
 ### Things We Would NOT Like You to do with git
+
 - Do NOT merge branches without permission from one of the project managers
 - Do NOT edit code outside of your branches unless absolutely necessary
 - Do NOT commit files that are videos, datasets, large visualizations, or anything with a large file size
 - Do NOT write pointless or empty commit messsages (`git blame` will find you!!!!)
-
-
-This will be updated as things progress
-
-
-
-
-
 
 
 
